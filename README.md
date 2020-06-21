@@ -7,6 +7,11 @@ Implemented event listeners in java script which are used to add mouse click and
 
 # Game Screenshots
 
+Initial screen
 ![alt text](https://github.com/vivekananda-reddy/shooting-arena-game/blob/master/initial%20screen.png)
+
+During the game play
 ![alt text](https://github.com/vivekananda-reddy/shooting-arena-game/blob/master/Game%20play.png)
+
+Game over Screen
 ![alt text](https://github.com/vivekananda-reddy/shooting-arena-game/blob/master/game%20over%20screen.png)
